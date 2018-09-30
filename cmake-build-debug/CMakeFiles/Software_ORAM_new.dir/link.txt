@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Software_ORAM_new.dir/main.cpp.o CMakeFiles/Software_ORAM_new.dir/ORAM.cpp.o CMakeFiles/Software_ORAM_new.dir/Util.cpp.o  -o Software_ORAM_new 

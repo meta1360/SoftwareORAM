@@ -1,0 +1,4 @@
+/home/meysam/clion-2018.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/meysam/mount_scratch/Software_ORAM_new
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/meysam/mount_scratch/Software_ORAM_new/cmake-build-debug
